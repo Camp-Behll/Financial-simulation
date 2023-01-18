@@ -1,2 +1,2 @@
 # Financial-simulation
-Several simulations of  brownien motion and pricing
+Statistic abitrage project: the pairs trading
